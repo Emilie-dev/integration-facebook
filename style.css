@@ -1,0 +1,89 @@
+/*body*/
+body {
+	background:linear-gradient(white, #B0AEE1);
+}
+
+/*navbar*/
+.navbar-default{
+	background-color: #2823AF;
+}
+.navbar-facebook {
+	color: white;
+	font-weight: bold;
+	font-size: 200%;
+	font-style: Andale Mono, monospace;
+}
+
+#navbtn {
+	background: #2B24D9;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin-left: 2%;
+}
+
+#labelcode {
+	margin-left: 2%;
+}
+#navcode {
+	width: 20%;
+}
+
+#labeltel {
+	color:#F2F2F8;
+}
+
+#labelcode {
+	color:#F2F2F8;
+}
+
+#navinput {
+	margin-left: 40%;
+}
+
+/*page*/
+.slogan {
+	text-align: left;
+	color: #080297;
+	font-weight: bold;
+	margin-top: 5%;
+	margin-left: 4%;
+}
+
+/*formulaire*/
+.title {
+	margin-left: 60%;
+}
+
+.form {
+	margin-left: 60%;
+}
+
+#prenom {
+	margin-bottom: 5%;	
+	width: 115%;
+}
+
+#nom {
+	margin-bottom: 5%;
+	width: 115%;
+}
+
+#num {
+	margin-bottom: 5%;
+	width: 115%;
+}
+
+#code {
+	margin-bottom: 5%;
+	width: 115%;
+}
+
+#p2 {
+	font-size: 85%;
+}
+
+#p3 {
+	font-size: 100%;
+	margin-top: 2%;
+}
